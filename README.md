@@ -14,7 +14,7 @@ Open Slides/index.html
 
 ```
 git clone git://github.com/artsalliancemedia/node-bittorrent-tracker.git
-cd node-bittorrent-tracker 
+cd node-bittorrent-tracker I
 node example.js
 ```
 
@@ -33,5 +33,10 @@ N.B. The reciever is now in a different directory than the demo as the demo at t
 cd scotlandjs/client 
 node 5.js 
 ``` 
+* In the scotlandjs folder create a folder named helloworld in a new folder called content. 
 
-* Now copy helloworld-master.zip from the root scotlandjs into ```scotlandjs/content/helloworld``` After a couple of minutes that file should appear in ```scotlandjs/client``` folder.
+```
+mkdir -p content/helloworld
+```
+
+* Now copy helloworld-master.zip from the root scotlandjs into ```scotlandjs/content/helloworld```  After a couple of minutes that file should appear in ```scotlandjs/client``` folder.
