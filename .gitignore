@@ -7,6 +7,9 @@ lib-cov
 *.pid
 *.gz
 
+content/helloworld/helloworld-master.zip
+client/helloworld-master.zip
+
 pids
 logs
 results
